@@ -13,7 +13,6 @@ nav{
 
 #home{
 text-align:center;
-  height:auto;
 }
 
 
@@ -35,7 +34,9 @@ h3{
   
 }
 
-
+.centermain:after{
+   margin: 10px auto; 
+}
 
 h2:after
 {
@@ -46,6 +47,7 @@ h2:after
     display: block;
     content: "";
     margin-top: 10px;
+ 
   
     
     
@@ -59,3 +61,4 @@ h2:after
   height:auto;
 
 }
+
