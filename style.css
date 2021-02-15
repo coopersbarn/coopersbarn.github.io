@@ -1,0 +1,61 @@
+html {
+    font-size: 1.1rem;
+  }
+
+.navbar-brand img{
+  height:80px;
+}
+
+nav{
+  background-color:#b02528;
+  
+}
+
+#home{
+text-align:center;
+  height:auto;
+}
+
+
+h1{
+    text-shadow: 0px 2px 5px #000;
+  font-weight:700;
+}
+
+h3{
+    text-shadow: 0px 2px 5px #000;
+}
+
+.main{
+  padding: 10% 10%;
+  background:linear-gradient(180deg, rgba(0,0,0,0.4) 0%, rgba(0,0,0,0.2) 100%),url("https://scontent-ort2-1.xx.fbcdn.net/v/t1.0-9/60469581_451157405634668_1609119573439676416_o.jpg?_nc_cat=106&ccb=3&_nc_sid=e3f864&_nc_ohc=_w3yzo_7EKsAX_txsNH&_nc_ht=scontent-ort2-1.xx&oh=02daaf07ebf79f2605f78c395f0055f1&oe=604942FB");
+  height:auto;
+  background-size:cover;
+  background-position: center; 
+  
+}
+
+
+
+h2:after
+{
+  
+    width: 80px;
+    height: 5px;
+    background-color: #b02528;
+    display: block;
+    content: "";
+    margin-top: 10px;
+  
+    
+    
+}
+
+.contbox{
+  font-size: 1.2rem;
+}
+
+.second{
+  height:auto;
+
+}
